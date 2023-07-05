@@ -8,4 +8,4 @@ const AnswerSection = () => {
   )
 }
 
-export default AnswerSection
+export default AnswerSection;
